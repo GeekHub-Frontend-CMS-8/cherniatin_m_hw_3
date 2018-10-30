@@ -1,0 +1,17 @@
+table, td, th {
+    border: 1px solid gray;
+    padding: 5px;
+}
+
+.tab1{
+    margin: auto;
+}
+
+.tab2{
+    margin: 20px 31%;
+
+}
+
+.tab3{
+    margin: 20px 31%;
+}

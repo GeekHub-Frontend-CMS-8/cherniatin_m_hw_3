@@ -1,0 +1,19 @@
+.form-wrapper{
+    width: 50%;
+    margin: 0 auto;
+
+}
+
+ul{
+    list-style: none;
+}
+
+.button{
+    width: 57%;
+    margin: auto;
+}
+
+fieldset{
+    margin-top: 2.5em;
+}
+
